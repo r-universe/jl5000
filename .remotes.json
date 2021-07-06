@@ -156,6 +156,36 @@
     "from": "gedcompendium"
   },
   {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["tidyged"],
+    "from": "tidyged"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["tidyged", "tidyged.utils"],
+    "from": "tidyged"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["tidyged", "tidyged.io"],
+    "from": "tidyged"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["tidyged", "visged"],
+    "from": "tidyged"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["tidyged", "visged", "tidyged.io"],
+    "from": "tidyged"
+  },
+  {
     "package": "tidyged.io",
     "url": "https://github.com/jl5000/tidyged.io",
     "via": ["gedcompendium", "tidyged"],
@@ -198,6 +228,18 @@
     "from": "gedcompendium"
   },
   {
+    "package": "tidyged.io",
+    "url": "https://github.com/jl5000/tidyged.io",
+    "via": ["tidyged"],
+    "from": "tidyged"
+  },
+  {
+    "package": "tidyged.io",
+    "url": "https://github.com/jl5000/tidyged.io",
+    "via": ["tidyged", "visged"],
+    "from": "tidyged"
+  },
+  {
     "package": "tidyged.utils",
     "url": "https://github.com/jl5000/tidyged.utils",
     "via": ["gedcompendium", "tidyged"],
@@ -228,6 +270,12 @@
     "from": "gedcompendium"
   },
   {
+    "package": "tidyged.utils",
+    "url": "https://github.com/jl5000/tidyged.utils",
+    "via": ["tidyged"],
+    "from": "tidyged"
+  },
+  {
     "package": "visged",
     "url": "https://github.com/jl5000/visged",
     "via": ["gedcompendium", "tidyged"],
@@ -250,5 +298,11 @@
     "url": "https://github.com/jl5000/visged",
     "via": ["gedcompendium"],
     "from": "gedcompendium"
+  },
+  {
+    "package": "visged",
+    "url": "https://github.com/jl5000/visged",
+    "via": ["tidyged"],
+    "from": "tidyged"
   }
 ]
