@@ -32,6 +32,30 @@
   {
     "package": "tidyged",
     "url": "https://github.com/jl5000/tidyged",
+    "via": ["shinyged"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged",
+    "url": "https://github.com/jl5000/tidyged",
+    "via": ["shinyged", "tidyged.io"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged",
+    "url": "https://github.com/jl5000/tidyged",
+    "via": ["shinyged", "visged"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged",
+    "url": "https://github.com/jl5000/tidyged",
+    "via": ["shinyged", "visged", "tidyged.io"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged",
+    "url": "https://github.com/jl5000/tidyged",
     "via": ["tidyged.io"],
     "from": "tidyged.io"
   },
@@ -178,6 +202,102 @@
     "url": "https://github.com/jl5000/tidyged.internals",
     "via": ["gedcompendium", "visged", "tidyged.io", "tidyged", "tidyged.utils"],
     "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["shinyged", "tidyged"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["shinyged", "tidyged", "tidyged.utils"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["shinyged", "tidyged", "tidyged.io"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["shinyged", "tidyged", "visged"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["shinyged", "tidyged", "visged", "tidyged.io"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["shinyged", "tidyged.io"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["shinyged", "tidyged.io", "tidyged"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["shinyged", "tidyged.io", "tidyged", "tidyged.utils"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["shinyged", "tidyged.io", "tidyged", "visged"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["shinyged", "visged", "tidyged"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["shinyged", "visged", "tidyged", "tidyged.utils"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["shinyged", "visged", "tidyged", "tidyged.io"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["shinyged", "visged"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["shinyged", "visged", "tidyged.io"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["shinyged", "visged", "tidyged.io", "tidyged"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["shinyged", "visged", "tidyged.io", "tidyged", "tidyged.utils"],
+    "from": "shinyged"
   },
   {
     "package": "tidyged.internals",
@@ -350,6 +470,36 @@
   {
     "package": "tidyged.io",
     "url": "https://github.com/jl5000/tidyged.io",
+    "via": ["shinyged", "tidyged"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.io",
+    "url": "https://github.com/jl5000/tidyged.io",
+    "via": ["shinyged", "tidyged", "visged"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.io",
+    "url": "https://github.com/jl5000/tidyged.io",
+    "via": ["shinyged"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.io",
+    "url": "https://github.com/jl5000/tidyged.io",
+    "via": ["shinyged", "visged", "tidyged"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.io",
+    "url": "https://github.com/jl5000/tidyged.io",
+    "via": ["shinyged", "visged"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.io",
+    "url": "https://github.com/jl5000/tidyged.io",
     "via": ["tidyged"],
     "from": "tidyged"
   },
@@ -416,6 +566,30 @@
   {
     "package": "tidyged.utils",
     "url": "https://github.com/jl5000/tidyged.utils",
+    "via": ["shinyged", "tidyged"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.utils",
+    "url": "https://github.com/jl5000/tidyged.utils",
+    "via": ["shinyged", "tidyged.io", "tidyged"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.utils",
+    "url": "https://github.com/jl5000/tidyged.utils",
+    "via": ["shinyged", "visged", "tidyged"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.utils",
+    "url": "https://github.com/jl5000/tidyged.utils",
+    "via": ["shinyged", "visged", "tidyged.io", "tidyged"],
+    "from": "shinyged"
+  },
+  {
+    "package": "tidyged.utils",
+    "url": "https://github.com/jl5000/tidyged.utils",
     "via": ["tidyged"],
     "from": "tidyged"
   },
@@ -460,6 +634,24 @@
     "url": "https://github.com/jl5000/visged",
     "via": ["gedcompendium"],
     "from": "gedcompendium"
+  },
+  {
+    "package": "visged",
+    "url": "https://github.com/jl5000/visged",
+    "via": ["shinyged", "tidyged"],
+    "from": "shinyged"
+  },
+  {
+    "package": "visged",
+    "url": "https://github.com/jl5000/visged",
+    "via": ["shinyged", "tidyged.io", "tidyged"],
+    "from": "shinyged"
+  },
+  {
+    "package": "visged",
+    "url": "https://github.com/jl5000/visged",
+    "via": ["shinyged"],
+    "from": "shinyged"
   },
   {
     "package": "visged",
