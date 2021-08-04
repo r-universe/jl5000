@@ -1,0 +1,254 @@
+[
+  {
+    "package": "tidyged",
+    "url": "https://github.com/jl5000/tidyged",
+    "via": ["gedcompendium"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged",
+    "url": "https://github.com/jl5000/tidyged",
+    "via": ["gedcompendium", "tidyged.utils"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged",
+    "url": "https://github.com/jl5000/tidyged",
+    "via": ["gedcompendium", "tidyged.io"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged",
+    "url": "https://github.com/jl5000/tidyged",
+    "via": ["gedcompendium", "visged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged",
+    "url": "https://github.com/jl5000/tidyged",
+    "via": ["gedcompendium", "visged", "tidyged.io"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium", "tidyged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium", "tidyged", "tidyged.utils"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium", "tidyged", "tidyged.io"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium", "tidyged", "visged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium", "tidyged", "visged", "tidyged.io"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium", "tidyged.utils", "tidyged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium", "tidyged.utils", "tidyged", "tidyged.io"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium", "tidyged.utils", "tidyged", "visged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium", "tidyged.utils", "tidyged", "visged", "tidyged.io"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium", "tidyged.utils"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium", "tidyged.io"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium", "tidyged.io", "tidyged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium", "tidyged.io", "tidyged", "tidyged.utils"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium", "tidyged.io", "tidyged", "visged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium", "visged", "tidyged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium", "visged", "tidyged", "tidyged.utils"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium", "visged", "tidyged", "tidyged.io"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium", "visged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium", "visged", "tidyged.io"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium", "visged", "tidyged.io", "tidyged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium", "visged", "tidyged.io", "tidyged", "tidyged.utils"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.io",
+    "url": "https://github.com/jl5000/tidyged.io",
+    "via": ["gedcompendium", "tidyged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.io",
+    "url": "https://github.com/jl5000/tidyged.io",
+    "via": ["gedcompendium", "tidyged", "visged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.io",
+    "url": "https://github.com/jl5000/tidyged.io",
+    "via": ["gedcompendium", "tidyged.utils", "tidyged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.io",
+    "url": "https://github.com/jl5000/tidyged.io",
+    "via": ["gedcompendium", "tidyged.utils", "tidyged", "visged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.io",
+    "url": "https://github.com/jl5000/tidyged.io",
+    "via": ["gedcompendium"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.io",
+    "url": "https://github.com/jl5000/tidyged.io",
+    "via": ["gedcompendium", "visged", "tidyged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.io",
+    "url": "https://github.com/jl5000/tidyged.io",
+    "via": ["gedcompendium", "visged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.utils",
+    "url": "https://github.com/jl5000/tidyged.utils",
+    "via": ["gedcompendium", "tidyged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.utils",
+    "url": "https://github.com/jl5000/tidyged.utils",
+    "via": ["gedcompendium"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.utils",
+    "url": "https://github.com/jl5000/tidyged.utils",
+    "via": ["gedcompendium", "tidyged.io", "tidyged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.utils",
+    "url": "https://github.com/jl5000/tidyged.utils",
+    "via": ["gedcompendium", "visged", "tidyged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.utils",
+    "url": "https://github.com/jl5000/tidyged.utils",
+    "via": ["gedcompendium", "visged", "tidyged.io", "tidyged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "visged",
+    "url": "https://github.com/jl5000/visged",
+    "via": ["gedcompendium", "tidyged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "visged",
+    "url": "https://github.com/jl5000/visged",
+    "via": ["gedcompendium", "tidyged.utils", "tidyged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "visged",
+    "url": "https://github.com/jl5000/visged",
+    "via": ["gedcompendium", "tidyged.io", "tidyged"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "visged",
+    "url": "https://github.com/jl5000/visged",
+    "via": ["gedcompendium"],
+    "from": "gedcompendium"
+  }
+]
