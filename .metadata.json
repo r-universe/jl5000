@@ -1,0 +1,23 @@
+[
+  {
+    "package": "gedcompendium"
+  },
+  {
+    "package": "tidyged"
+  },
+  {
+    "package": "tidyged.internals"
+  },
+  {
+    "package": "tidyged.io"
+  },
+  {
+    "package": "tidyged.utils"
+  },
+  {
+    "package": "visged"
+  },
+  {
+    "package": "shinyged"
+  }
+]
