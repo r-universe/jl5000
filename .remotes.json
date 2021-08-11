@@ -80,6 +80,12 @@
   {
     "package": "tidyged.internals",
     "url": "https://github.com/jl5000/tidyged.internals",
+    "via": ["gedcompendium"],
+    "from": "gedcompendium"
+  },
+  {
+    "package": "tidyged.internals",
+    "url": "https://github.com/jl5000/tidyged.internals",
     "via": ["gedcompendium", "tidyged"],
     "from": "gedcompendium"
   },
