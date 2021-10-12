@@ -3,8 +3,38 @@
 	url = https://github.com/jl5000/universe
 	shallow = true
 	branch = HEAD
+[submodule "gedcompendium"]
+	path = gedcompendium
+	url = https://github.com/jl5000/gedcompendium
+	shallow = true
+	registered = true
+[submodule "tidyged"]
+	path = tidyged
+	url = https://github.com/jl5000/tidyged
+	shallow = true
+	registered = true
 [submodule "tidyged.internals"]
 	path = tidyged.internals
 	url = https://github.com/jl5000/tidyged.internals
+	shallow = true
+	registered = true
+[submodule "tidyged.io"]
+	path = tidyged.io
+	url = https://github.com/jl5000/tidyged.io
+	shallow = true
+	registered = true
+[submodule "tidyged.utils"]
+	path = tidyged.utils
+	url = https://github.com/jl5000/tidyged.utils
+	shallow = true
+	registered = true
+[submodule "visged"]
+	path = visged
+	url = https://github.com/jl5000/visged
+	shallow = true
+	registered = true
+[submodule "shinyged"]
+	path = shinyged
+	url = https://github.com/jl5000/shinyged
 	shallow = true
 	registered = true
