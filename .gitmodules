@@ -38,3 +38,8 @@
 	url = https://github.com/jl5000/shinyged
 	shallow = true
 	registered = true
+[submodule "queryged"]
+	path = queryged
+	url = https://github.com/jl5000/queryged
+	shallow = true
+	registered = false
