@@ -19,5 +19,8 @@
   },
   {
     "package": "shinyged"
+  },
+  {
+    "package": "queryged"
   }
 ]

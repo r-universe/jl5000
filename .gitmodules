@@ -42,4 +42,4 @@
 	path = queryged
 	url = https://github.com/jl5000/queryged
 	shallow = true
-	registered = false
+	registered = true
