@@ -38,8 +38,8 @@
 	url = https://github.com/jl5000/shinyged
 	shallow = true
 	registered = true
-[submodule "wordcloud2-fork"]
-	path = wordcloud2-fork
+[submodule "wordcloud2"]
+	path = wordcloud2
 	url = https://github.com/jl5000/wordcloud2
 	shallow = true
 	registered = true

@@ -21,6 +21,7 @@
     "package": "shinyged"
   },
   {
-    "package": "wordcloud2-fork"
+    "package": "wordcloud2",
+    "oncran": false
   }
 ]
