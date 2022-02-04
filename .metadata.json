@@ -19,9 +19,5 @@
   },
   {
     "package": "shinyged"
-  },
-  {
-    "package": "wordcloud2",
-    "oncran": false
   }
 ]
