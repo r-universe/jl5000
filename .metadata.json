@@ -19,5 +19,9 @@
   },
   {
     "package": "shinyged"
+  },
+  {
+    "package": "httr2",
+    "oncran": false
   }
 ]
