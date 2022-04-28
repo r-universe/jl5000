@@ -38,8 +38,8 @@
 	url = https://github.com/jl5000/shinyged
 	shallow = true
 	registered = true
-[submodule "httr2"]
-	path = httr2
-	url = https://github.com/jl5000/httr2
+[submodule "httr2-patch118"]
+	path = httr2-patch118
+	url = https://github.com/jl5000/httr2-patch118
 	shallow = true
 	registered = true

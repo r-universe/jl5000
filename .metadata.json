@@ -21,7 +21,6 @@
     "package": "shinyged"
   },
   {
-    "package": "httr2",
-    "oncran": false
+    "package": "httr2-patch118"
   }
 ]
