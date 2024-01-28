@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/jl5000/universe
+	url = https://github.com/jl5000/jl5000.r-universe.dev
 	branch = HEAD
 [submodule "gedcompendium"]
 	path = gedcompendium
