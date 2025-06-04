@@ -2,24 +2,26 @@
 	path = .registry
 	url = https://github.com/jl5000/jl5000.r-universe.dev
 	branch = HEAD
-[submodule "gedcompendium"]
-	path = gedcompendium
-	url = https://github.com/jl5000/gedcompendium
-[submodule "shinyged"]
-	path = shinyged
-	url = https://github.com/jl5000/shinyged
+[submodule "gedcomS7"]
+	path = gedcomS7
+	url = https://github.com/jl5000/gedcomS7
 [submodule "tidyged"]
 	path = tidyged
 	url = https://github.com/jl5000/tidyged
+	registered = false
 [submodule "tidyged.internals"]
 	path = tidyged.internals
 	url = https://github.com/jl5000/tidyged.internals
+	registered = false
 [submodule "tidyged.io"]
 	path = tidyged.io
 	url = https://github.com/jl5000/tidyged.io
+	registered = false
 [submodule "tidyged.utils"]
 	path = tidyged.utils
 	url = https://github.com/jl5000/tidyged.utils
+	registered = false
 [submodule "visged"]
 	path = visged
 	url = https://github.com/jl5000/visged
+	registered = false
